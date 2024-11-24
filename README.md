@@ -1,5 +1,19 @@
-# GEACM01X
+<!-- Background github cover with short introduction down below 
+<img src="https://github.com/flexycode/GERIZ01X/blob/main/assets/Rizal.png" />
+-->
 
+<!-- Background github cover with short introduction down below 
+<img src="https://github.com/Theropodr/Theropodr/blob/main/assets/RavenVanillaPhoenix.jpg" />
+-->
+
+# 📚 GEACM01X - ADVANCE COMMUNICATION
+
+### Name: [Jay Arre Talosig](https://github.com/flexycode)  
+### Subject & Section: GEACM01X - COM231 
+### Instructor: Mr. Raffy D. Quines 
+### No. of Units: 3 Units
+### Prerequisite: [None](https://www.youtube.com/watch?v=KyUVo8ijZ98)
+### Important Link: [Moodle Hopkins](https://moodle.hopkins.ph/course/index.php?categoryid=4)
 
 ```
 Coming Soon This fall off November
