@@ -19,6 +19,18 @@
 Coming Soon This fall off November
 ```
 
+# 📫 Changelogs
+```
+## [11.0.2] - 2024-11-25    
+### Added  
+- ✨ Fix Documentation
+- ✨ Added Week 0 - Course Outline and Timeframe
+
+
+## [12.0.1] - 2024-12-05    
+### Added  
+- ✨ Added Week 1 - 
+
 💎 Advance Communication
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
