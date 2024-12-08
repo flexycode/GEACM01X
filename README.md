@@ -29,7 +29,11 @@ Coming Soon This fall off November
 
 ## [12.0.1] - 2024-12-05    
 ### Added  
-- ✨ Added Week 1 - 
+- ✨ Added Week 1
+
+## [12.0.1] - 2024-12-09    
+### Added  
+- ✨ Added Week 2
 
 💎 Advance Communication
 
