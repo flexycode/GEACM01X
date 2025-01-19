@@ -106,6 +106,10 @@ In summary, Mr. Raffy D. Quines is an outstanding educator who has made a signif
 ### Update  
 - ✨ Submitted the Lexile Reading Midterm
 
+## [01.0.1] - 2025-01-18    
+### Update  
+- ✨ Submitted the Midterm Exam - Professional Interview ( Machine Learning Engineer )
+
 💎 Advance Communication
 ```
 
