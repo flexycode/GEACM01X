@@ -110,6 +110,10 @@ In summary, Mr. Raffy D. Quines is an outstanding educator who has made a signif
 ### Update  
 - ✨ Submitted the Midterm Exam - Professional Interview ( Machine Learning Engineer )
 
+## [12.0.1] - 2024-02-007    
+### Added  
+- ✨ Added Week 3
+
 💎 Advance Communication
 ```
 
